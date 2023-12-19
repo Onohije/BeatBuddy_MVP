@@ -360,3 +360,7 @@ section .sec-container2 .division2 {
     gap: 20px;
     align-items: center;
 }
+
+.videos-button{
+    text-decoration: dashed;
+}
